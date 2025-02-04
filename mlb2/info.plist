@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleName</key>
+	<string>mlb2</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleExecutable</key>
+	<string>mlb2</string>
+	<key>CFBundleDisplayName</key>
+	<string>BaseballBot</string>
+	<key>CFBundleIdentifier</key>
+	<string>later.mlb2</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We need speech recognition to convert your voice to text</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need access to your microphone for speech recognition</string>
+	<key>privacy</key>
+	<string>&quot;Microphone Usage Description: &quot;We need microphone access to detect audio for the waveform animation&quot;</string>
+</dict>
+</plist>
