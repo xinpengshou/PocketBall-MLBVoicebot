@@ -1,5 +1,5 @@
 # PocketBall - MLBVoiceBot
-![mlb](https://github.com/user-attachments/assets/aa2e1b0f-23b0-4820-98e8-a325f6cb4389)
+![mlb](https://github.com/user-attachments/assets/007d2182-dff5-448a-8170-112ad26b40a2)
 
 ## Overview
 An innovative iOS application that combines real-time MLB game tracking with an AI-powered baseball assistant. The app features live play-by-play updates, chronological game summaries, and a voice-interactive baseball knowledge system powered by Google's Gemini AI.
