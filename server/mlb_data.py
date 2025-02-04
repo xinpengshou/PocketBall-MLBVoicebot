@@ -1,3 +1,11 @@
+"""
+MIT License
+
+Copyright (c) 2024 [Xinpeng Shou]
+
+See LICENSE file for the complete license terms.
+"""
+
 import requests
 import json
 
