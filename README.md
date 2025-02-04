@@ -36,6 +36,14 @@ Handles MLB data fetching and processing:
 - Saves formatted data to JSON files
 
 Key functions:
-def get_current_play_info(game_id) # Fetches live game data
-def save_live_data(play_info_list) # Saves to JSON
-def print_play_info(play_info_list) # Debug output
+- def get_current_play_info(game_id) # Fetches live game data
+- def save_live_data(play_info_list) # Saves to JSON
+- def print_play_info(play_info_list) # Debug output
+
+## License
+MIT License
+
+## Credits
+- MLB Stats API
+- Google Cloud Platform
+- SwiftUI Framework
