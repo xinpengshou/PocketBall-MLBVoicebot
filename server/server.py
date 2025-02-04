@@ -1,3 +1,11 @@
+"""
+MIT License
+
+Copyright (c) 2024 [Xinpeng Shou]
+
+See LICENSE file for the complete license terms.
+"""
+
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
