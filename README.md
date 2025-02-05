@@ -4,6 +4,9 @@
 ## Overview
 An innovative iOS application that combines real-time MLB game tracking with an AI-powered baseball assistant. The app features live play-by-play updates, chronological game summaries, and a voice-interactive baseball knowledge system powered by Google's Gemini AI.
 
+## Testflight Links
+https://testflight.apple.com/join/Qpn1CECt
+
 ## Key Features
 - Real-time game tracking with timestamped play-by-play updates
 - AI-powered voice assistant for baseball queries
